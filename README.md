@@ -27,6 +27,7 @@
 ## Day 1     (19-December-2019)
 
 ✅ Took the pledge. #60daysofudacity
+✅ Lesson 1 Completed.
 
 
 
