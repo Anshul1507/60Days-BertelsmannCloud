@@ -24,7 +24,7 @@
 ## **My 60daysofudacity Activities** 🚀
 
 
-## Day 1     (28-June-2019)
+## Day 1     (19-December-2019)
 
 ✅ Took the pledge. #60daysofudacity
 
