@@ -24,10 +24,19 @@
 ## **My 60daysofudacity Activities** 🚀
 
 
-## Day 1     (19-December-2019)
+## Day 1     (18-December-2019)
 
-✅ Took the pledge. #60daysofudacity
-✅ Lesson 1 Completed.
+✅ Took the pledge. #60daysofudacity <br/>
+✅ Lesson 1 Completed. <br/>
+✅ Lesson 2 Completed. <br/>
+✅ [Summary File Updated](https://github.com/Anshul1507/cloud-intro/tree/master/bash) <br/><br/>
+
+## Day 2     (19-December-2019)
+
+✅ Lesson 3 Completed. <br/>
+✅ [Summary File Updated](https://github.com/Anshul1507/cloud-intro/tree/master/version-control) <br/><br/>
+
+
 
 
 
